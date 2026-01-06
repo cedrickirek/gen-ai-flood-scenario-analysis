@@ -1,5 +1,13 @@
-This work aims to drastically improve my 1st Master's research project (back in 2023) with my deepened knowledge in generative A.I., Machine Learning, and Deep Learning. 
-The research project goal was to develop from scratch a regression model to predict the amount of waste (kg) generated after floods in Abidjan, Cote d'Ivoire.   
-This was (still is) a crucial issue in this country, as there are almost every year deadly damages during the rainy season. Unfortunately, none to a few quantitatively-based methods are used by people of power to prevent casualties. 
-Unfortunately, there was ZERO publicly available information on past data regarding the amount of waste generated in Cote d'Ivoire after floods. The biggest part was to deterministically estimate the amount of waste generated aafter floods officially recorded before building the regression model. I succedeed to do all this with a lot of heuristic methods, but it was obvious that using generative A.I. for synthetic data generation with certain specifities was going to be extremel;y relevant.
-Hence, now, the two main objectives are: generating synthetic flood data for both the explanatory and explained variables, and compare the performance and explainability of different models (white and black box models) 
+**About This Project**
+This project aims to significantly enhances my 1st Master's research from 2023, applying advanced techniques in generative AI, machine learning, and deep learning.
+
+**Background**
+The original goal was to develop a regression model to predict post-flood waste generation (in tons) in Abidjan, Côte d'Ivoire. (More information can be found in the file "research thesis abstract". Floods cause deadly damage almost every year during the rainy season, yet decision-makers do not possess effective quantitative methods for prevention and planning.
+
+**The Challenge**
+Zero publicly available data existed on historical post-flood waste generation in Côte d'Ivoire. Consequently, I deterministically estimated waste amounts using heuristic methods before any modeling could begin. Those methods relied on data from well documented data available that was the closest cities to Abidjan: Bangkok.  
+
+**Current Objectives**
+It was obvious that using generative for synthetic data generation with certain specifities was going to be very relevant. Hence, this enhanced version addresses the data scarcity problem with modern techniques:
+1. **Synthetic Data Generation**: Use generative AI to create realistic flood data for both input features and target variables
+2. **Model Comparison**: Evaluate and compare the performance and explainability of various models (white-box vs. black-box approaches)
