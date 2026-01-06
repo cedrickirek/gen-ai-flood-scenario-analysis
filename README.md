@@ -1,6 +1,10 @@
 **About This Project:**  
 This project aims to significantly enhances my 1st Master's research from 2023, applying advanced techniques in generative AI, machine learning, and deep learning.
 
+**More details on some of the files in the main directory:**  
+_ "first part of my master's thesis": This is the section of the thesis where the regression model and the methods for the waste quantification are defined.  
+_
+
 **Background:**  
 The original goal was to develop a regression model to predict post-flood waste generation (in tons) in Abidjan, Côte d'Ivoire. (More information can be found in the file "research thesis abstract". Floods cause deadly damage almost every year during the rainy season, yet decision-makers do not possess effective quantitative methods for prevention and planning.
 
