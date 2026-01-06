@@ -2,7 +2,7 @@
 This project aims to significantly enhances my 1st Master's research from 2023, applying advanced techniques in generative AI, machine learning, and deep learning.
 
 **More details on some of the files in the main directory:**  
-_ "first part of my master's thesis": This is the section of the thesis where the regression model and the methods for the waste quantification are defined.  
+_ "model part of my MASTER'S THESIS": This is the section of the thesis where the regression model and the methods for the waste quantification are defined.  
 _
 
 **Background:**  
